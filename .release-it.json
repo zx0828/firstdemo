@@ -5,7 +5,7 @@
   "github": {
     "release": true
   },
-  "npm":true,
+  "npm":false,
   "hooks": {
     "after:bump": "echo 更新版本成功"
   },
