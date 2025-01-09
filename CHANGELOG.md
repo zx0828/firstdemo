@@ -1,5 +1,19 @@
 # Changelog
 
+# [3.0.0](https://github.com/zx0828/firstdemo/compare/2.0.0...3.0.0) (2025-01-09)
+
+
+### Bug Fixes
+
+* 修复两个相加bug ([4544e6c](https://github.com/zx0828/firstdemo/commit/4544e6c44afbc6443dea613b9bbb6602a6cbdf59))
+* 修改npm 为 false ([c8029e1](https://github.com/zx0828/firstdemo/commit/c8029e14f107f02099933817c2a9453ab4f08bac))
+
+
+### BREAKING CHANGES
+
+* 无
+* 无
+
 # [2.0.0](https://github.com/zx0828/firstdemo/compare/1.0.0...2.0.0) (2025-01-09)
 
 
