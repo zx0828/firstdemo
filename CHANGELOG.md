@@ -1,5 +1,17 @@
 # Changelog
 
+# [4.0.0](https://github.com/zx0828/firstdemo/compare/3.0.0...4.0.0) (2025-01-09)
+
+
+### Bug Fixes
+
+* **新增两个数相除:** 计算两个数的除法 ([1f48e75](https://github.com/zx0828/firstdemo/commit/1f48e752a601ce71856171088e83aea6bd6d7da1))
+
+
+### BREAKING CHANGES
+
+* **新增两个数相除:** 无
+
 # [3.0.0](https://github.com/zx0828/firstdemo/compare/2.0.0...3.0.0) (2025-01-09)
 
 
