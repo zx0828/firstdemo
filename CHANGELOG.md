@@ -1,5 +1,17 @@
 # Changelog
 
+# [2.0.0](https://github.com/zx0828/firstdemo/compare/1.0.0...2.0.0) (2025-01-09)
+
+
+### Bug Fixes
+
+* **增加相乘计算:** 添加一个相乘的函数 ([cae01ae](https://github.com/zx0828/firstdemo/commit/cae01ae76633372055b0328d7445dd74d1b87e36))
+
+
+### BREAKING CHANGES
+
+* **增加相乘计算:** 无
+
 # 1.0.0 (2025-01-09)
 
 
