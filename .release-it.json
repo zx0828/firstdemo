@@ -1,11 +1,13 @@
 {
   "git": {
-    "commitMessage": "chore: release v${version}"
+    "commitMessage": "chore: release v${version}",
+    "requireCleanWorkingDir": false,
+    "tagName": "v${version}"
   },
   "github": {
     "release": true
   },
-  "npm":false,
+  "npm": false,
   "hooks": {
     "after:bump": "echo 更新版本成功"
   },
@@ -14,5 +16,9 @@
       "preset": "angular",
       "infile": "CHANGELOG.md"
     }
+  },
+  "options": {
+    "increment": "interactive", 
+    "defaultBump": false       
   }
 }
